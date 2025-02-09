@@ -1,0 +1,13 @@
+name = "Terranova"
+author = "cheesemany"
+version = "0.2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "25cf7c45f9fa4b0ed5818f893733748962c3ef01d365349ad28d2681f7530d10"
+
+[versions]
+forge = "47.3.29"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "TerraFirmaCraft"
+filename = "TerraFirmaCraft-Forge-1.20.1-3.2.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JaCEZUhg/versions/R1EF5bAS/TerraFirmaCraft-Forge-1.20.1-3.2.13.jar"
+hash-format = "sha512"
+hash = "f376b8d68b275dfb246e7506c05775c1eaa157a4da5060e572442b09ddd9046e77e97fe74e8d1de65a138bbb5bb819916fb0bedd4c2d6cd941690e0182c8164a"
+
+[update]
+[update.modrinth]
+mod-id = "JaCEZUhg"
+version = "R1EF5bAS"
